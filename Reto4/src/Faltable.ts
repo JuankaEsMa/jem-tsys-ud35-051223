@@ -1,0 +1,3 @@
+interface Faltable{
+    falta():boolean;
+}
